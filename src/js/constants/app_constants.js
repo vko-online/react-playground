@@ -1,0 +1,4 @@
+module.exports = {
+	FIRST_ACTION: 'FIRST_ACTION',
+	CHANGE_EVENT_APP: 'CHANGE_EVENT_APP'
+};

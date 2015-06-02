@@ -1,0 +1,25 @@
+{
+  "name": "react-playground-starter",
+  "version": "1.0.0",
+  "description": "Sample react playgroun with gulp, request, lodash, es6-promise",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs",
+    "playground"
+  ],
+  "author": "bwin (vko-online)",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promises": "^1.0.10",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.2",
+    "lodash": "^3.9.3",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "request": "^2.57.0"
+  }
+}
